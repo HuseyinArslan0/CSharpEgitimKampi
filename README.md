@@ -26,8 +26,11 @@ Bu projede, foreach döngüsünü kullanmayı öğrendim. Dizilerde foreach kull
 ## ✅ Proje 8: Methods
 Çeşitli metot oluşturma ve çağırma yöntemlerini öğrendim.
 
-## ✅ Proje 9: DataBase Project
+## ✅ Proje 9: DataBaseProject
 Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. SqlConnection, SqlCommand, SqlDataAdapter ve DataTable sınıflarını kullanmayı öğrendim.
+
+## ✅ Proje 10: DataBaseCrud
+Bu projede C# ile veritabanlarında CRUD (create, read, update, delete) yapmayı öğrendim. Uygulamalarla pratik yaptım.
 
 
 
